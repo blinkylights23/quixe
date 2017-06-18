@@ -1,3 +1,12 @@
+Fork note:
+This is an unadulterated fork of Quixe, intended solely to
+make it easy to install with:
+
+npm install git+https://github.com/blinkylights23/quixe.git
+
+There are no changes to this other than an added package.json.
+
+
 Quixe -- a Glulx VM interpreter written in Javascript
 
 Quixe Library: version 2.1.6.

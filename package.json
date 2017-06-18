@@ -1,0 +1,22 @@
+{
+  "name": "quixe",
+  "version": "2.1.6",
+  "description": "An unadulterated fork of Andrew Plotkin's Quixe (for the purpose of making it npm-installable)",
+  "main": "lib/quixe.min.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blinkylights23/quixe.git"
+  },
+  "author": "Paul Smith <paul@paulsmith.io> (http://paulsmith.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blinkylights23/quixe/issues"
+  },
+  "homepage": "https://github.com/blinkylights23/quixe#readme"
+}
